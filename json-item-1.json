@@ -1,0 +1,12 @@
+{
+	"name" : "product 1",
+	"price" : "INR 1000",
+	"rating" : "1/5",
+	"desc" : "asde desc desc desc lkjasd asdkjaias kajsdienjnsad asda... ",
+	"id" : 1,
+	"reviews" : [
+		{"name" : "someone1" , "comment" : "some comments from someone1"},
+		{"name" : "someone2" , "comment" : "some comments from someone2"},
+		{"name" : "someone3" , "comment" : "some comments from someone3"}
+	]	
+}

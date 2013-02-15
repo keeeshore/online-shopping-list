@@ -1,0 +1,27 @@
+ {
+			"id" : "1",
+			"itemType" : "MAIN",
+			"items": [
+				{
+					"name" : "item default 1",
+					"type" : "81",
+					"price" : 11000,
+					"rating" : "3",
+					"uniqueId" : 111
+				},
+				{
+					"name" : "item default 2",
+					"type" : "82",
+					"price" : 1000,
+					"rating" : "2",
+					"uniqueId" : 222
+				},
+				{
+					"name" : "item default 3",
+					"type" : "83",
+					"price" : 10001,
+					"rating" : "1",
+					"uniqueId" : 444
+				}
+			]
+		}

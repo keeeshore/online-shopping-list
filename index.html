@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/global.css" />
+	<script data-main="js/app" src="js/lib/require-2.1.1.js"></script>
+</head>
+<body>	
+	
+	<div id="mainCont">		
+		<div id="header"> 
+			<h1>Header </h1>
+		</div>
+		<div id="contents">	
+			<div id="mainMenu">
+				<ul>
+					<li> <a href="#cat/1"> Cat 1 </a> </li>
+					<li> <a href="#cat/2"> Cat 2 </a> </li>
+					<li> <a href="#cat/3"> Cat 3 </a> </li>
+					<li> <a href="#cat/4"> Cat 4 </a> </li>
+				</ul>
+			</div>
+			<div class="content">
+
+				<div class="sortElement">
+					<label> Sort by :
+						<select id="sorter" name="sorter">
+							<option value="price">Price</option>
+							<option value="rating">Rating</option>
+							<option value="review">Review</option>
+							<option value="type">type</option>
+						</select>
+					</label>
+				</div>
+				<h1 class="catHeading">Index Page</h1>
+				
+				<div id="categoryCont">
+					
+				</div>
+				
+				<div id="itemDetailsCont">				
+				</div>
+			</div>			
+		</div>	
+	</div>	
+	<div id="footer">
+		<div class=footerContent>
+			footer comes here...
+		</div>
+	</div>
+
+</body>
+</html>

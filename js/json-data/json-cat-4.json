@@ -1,0 +1,27 @@
+ {
+	"id" : "id",
+	"itemType" : "CATEGORY 4",
+	"items": [
+		{
+			"name" : "item 4.1",
+			"type" : "400",
+			"price" : 3400,
+			"rating" : "3/5",
+			"uniqueId" : 38
+		},
+		{
+			"name" : "item 4.2",
+			"type" : "1314",
+			"price" : 3040,
+			"rating" : "4/5",
+			"uniqueId" : 4334
+		},
+		{
+			"name" : "item 4.3",
+			"type" : "1042",
+			"price" : 400,
+			"rating" : "4/5",
+			"uniqueId" : 433
+		}
+	]
+}

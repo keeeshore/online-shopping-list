@@ -1,0 +1,48 @@
+ {
+	"id" : 2,
+	"itemType" : "CATEGORY 2",
+	"items": [
+		{
+			"name" : "item 2.1",
+			"type" : "300",
+			"price" : 300,
+			"rating" : "2/5",
+			"uniqueId" : 1
+		},
+		{
+			"name" : "item 2.2",
+			"type" : "131",
+			"price" : 300,
+			"rating" : "2/5",
+			"uniqueId" : 1
+		},
+		{
+			"name" : "item 2.3",
+			"type" : "102",
+			"price" : 500,
+			"rating" : "1/5",
+			"uniqueId" : 12
+		},
+		{
+			"name" : "item 2.1",
+			"type" : "300",
+			"price" : 300,
+			"rating" : "2/5",
+			"uniqueId" : 3
+		},
+		{
+			"name" : "item 2.2",
+			"type" : "131",
+			"price" : 300,
+			"rating" : "2/5",
+			"uniqueId" : 1
+		},
+		{
+			"name" : "item 2.3",
+			"type" : "102",
+			"price" : 500,
+			"rating" : "1/5",
+			"uniqueId" : 12
+		}
+	]
+}

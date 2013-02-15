@@ -1,0 +1,12 @@
+{
+	"name" : "product 2",
+	"price" : "INR 1600",
+	"rating" : "2/5",
+	"desc" : "details for product 2. ",
+	"id" : 2,
+	"reviews" : [
+		{"name" : "someone1" , "comment" : "some comments from someone1"},
+		{"name" : "someone2" , "comment" : "some comments from someone2"},
+		{"name" : "someone3" , "comment" : "some comments from someone3"}
+	]	
+}
