@@ -1,0 +1,27 @@
+ {
+	"id" : 1,
+	"itemType" : "CATEGORY 1",
+	"items": [
+		{
+			"name" : "item 1.1",
+			"type" : "100",
+			"price" : 300,
+			"rating" : "3/5",
+			"uniqueId" : 1
+		},
+		{
+			"name" : "item 1.2",
+			"type" : "101",
+			"price" : 400,
+			"rating" : "2/5",
+			"uniqueId" : 234
+		},
+		{
+			"name" : "item 1.3",
+			"type" : "102",
+			"price" : 500,
+			"rating" : "1/5",
+			"uniqueId" : 33
+		}
+	]
+}
